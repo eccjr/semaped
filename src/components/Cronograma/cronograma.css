@@ -1,0 +1,119 @@
+.cronograma {
+    width: 100%;
+    height: 70vh;
+    margin-top: 5vh;
+}
+
+.crono_box {
+    max-width: 95vw;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.crono_box h1 {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+/*/////////////////////////////// Dias ///////////////////////////////
+--                                                                  --
+///////////////////////////////// Dias //////////////////////////////*/
+.crono_dias {
+    margin-top: 70px;
+    display: flex;
+    margin-left: 26px;
+}
+
+.crono_dias button {
+    background-color: #535050;
+    cursor:pointer;
+    padding:5px 12px;
+    border:1px solid #535050;
+    color: white;
+    font-weight: 500;
+}
+
+.crono_dias button:not(:first-child) {
+    margin-left: 5px;
+}
+
+/*/////////////////////////////// Participantes ///////////////////////////////
+--                                                                           --
+///////////////////////////////// Participantes //////////////////////////////*/
+.crono_participantes {
+    margin-top: 70px;
+}
+
+.participante {
+    width: 630px;
+    height: 250px;
+    display: flex;
+}
+
+.participante:not(:first-child) {
+    margin-top: 80px;
+}
+
+.part-half-1 {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.part-half-1 img {
+    width: 200px;
+    height: auto;
+}
+
+.part-half-1 h1 {
+    font-weight: 500;
+    margin-top: 24px;
+    font-size: 20px;
+}
+
+.part-half-2 {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.part-title {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.part-time {
+    color: #9E6F04;
+    font-weight: 500;
+    font-size: 19px;
+    margin-top: 12px;
+}
+
+.part-desc {
+    margin-top: 24px;
+    color: #343131;
+    font-weight: 600;
+    font-family: 'Manrope', sans-serif;
+    line-height: 28px;
+}
+
+.part-conections {
+    display: flex;
+    margin-top: 35px;
+}
+
+.part-conections .part-insta,.part-link {display: flex;}
+.part-conections .part-insta img,.part-link img{width: 18px;  height: auto;}
+
+.part-conections .part-insta span,.part-link span{
+    margin-left: 10px;
+}
+
+.part-link {
+    margin-left: 50px;
+}
