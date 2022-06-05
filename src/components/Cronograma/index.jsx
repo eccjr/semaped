@@ -4,7 +4,7 @@ import { Participante } from "./Participante";
 
 export function Cronograma(){
   return (
-    <section className="cronograma">
+    <section className="cronograma" id="cronograma">
       <div className="crono_box">
           <h1>Cronograma</h1>
 

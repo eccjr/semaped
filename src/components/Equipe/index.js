@@ -2,7 +2,7 @@ import React from "react";
 
 export function Equipe(){
   return(
-    <section>
+    <section id="equipe">
       <h2>Equipe</h2>
     </section>
   )
