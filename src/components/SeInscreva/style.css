@@ -1,0 +1,44 @@
+.seInscreva{
+    height: 108px;
+    background-color: #042453;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.seInscreva h2{
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 28px;
+    color: #F7FAFF;
+
+}
+
+.seInscreva button{
+  box-sizing: border-box;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  gap: 10.74px;
+
+  background: linear-gradient(180deg, #FBD88A 0%, #FDD06B 64.06%, #FFCC5A 100%);
+
+  border: 1.6108px solid #9E6F04;
+  border-radius: 6.44318px;
+
+  font-family: 'Manrope', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 23px;
+  text-align: center;
+  color: #946805;
+  
+}
