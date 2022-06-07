@@ -6,7 +6,7 @@ import "./style.css";
 export function MainSection(){
   return(
     <main className="mainSection">
-            <img src="/semaped-banner.png" alt="Logo da Semana da Pedagogia"></img>
+            <img src="./banner.png" alt="Logo da Semana da Pedagogia"></img>
 
             <div className="semaped-text">
                 <h2>Dias 07, 08 e 09 de Setembro</h2>

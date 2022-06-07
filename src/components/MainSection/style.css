@@ -1,5 +1,5 @@
 .mainSection{
-  height: calc(100vh - 90px);
+  /* height: calc(100vh - 90px); */
   background-color: #E6DFFA;
 
   display: flex;
@@ -11,9 +11,20 @@
 
 .mainSection img{
   height: auto;
+  width: 50%;
   max-width: 540px;
-
   margin: 1rem;
+}
+
+@media screen and (max-width: 800px){
+  .mainSection{
+    flex-direction: column;
+    align-items: center;
+  }
+  .mainSection img{
+    width: 100%;
+    max-width: unset;
+  }
 }
 
 .mainSection .semaped-text{
