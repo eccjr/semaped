@@ -1,7 +1,7 @@
 import React from "react";
 import "./cronograma.css";
 
-export function Participante(nome,image_url,titulo,horario_loc,descricao,instagram,linkedin) {
+export function Participante({nome, image_url,titulo,horario_loc,descricao,instagram,linkedin}) {
     return (
         <>
             <div className="participante">

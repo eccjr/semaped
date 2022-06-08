@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./cronograma.css";
-// import { Participante } from "./Participante";
+import { Participante } from "./Participante";
 
 const jsonData = require('./cronograma.json'); 
 
@@ -55,6 +55,19 @@ export function Cronograma(){
           </div>
 
           <div className="crono_participantes">
+            {participantes.map((participante) => (
+              <Participante
+                nome={participante.nome}
+                image_url={participante.image_url}
+                titulo={participante.titulo}
+                horario_loc={participante.horario_loc}
+                descricao={participante.descricao}
+                instagram={participante.instagram}
+                linkedin={participante.linkedin}
+              />
+              
+            )
+            )}
             {participantes.map((participante) => console.log(participante))}
           </div>
       </div>
