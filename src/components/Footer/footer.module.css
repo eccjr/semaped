@@ -1,0 +1,123 @@
+.footer {
+    display: flex;
+    background-color: #A899D4;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .logo {
+    width: 206.33px;
+    height: 110.33px;
+
+    background: url(images/logo.png);
+    margin-top: 110px;
+}
+
+.footer .map {
+    width: 677.36px;
+    height: 223.22px;
+
+    margin-top: 76px;
+
+    background: url(images/mapa.png);
+
+}
+
+.footer p {
+    color: #F2EDFF;
+    margin-bottom: 19px;
+    font-size: 17.1px;
+    font-weight: 700;
+}
+
+.footer > .center {
+    min-width: 1030px;
+}
+
+.footer > .center > .left {
+    float: left;
+}
+
+.footer > .center > .right {
+    float: right;
+    display: flex;
+    flex-direction: column;
+}
+
+.text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 56px;
+    margin-bottom: 67;
+}
+
+.email {
+    display: block;
+}
+
+.redes {
+    display: block;
+}
+
+.redes > ul {
+    margin-top: 15px;
+}
+
+.email_text {
+    color: #032354 !important;
+}
+
+.fb {
+    width: 31px;
+    height: 31px;
+
+    background: url(images/fb.png);
+
+    margin-right: 25px;
+}
+
+.ig {
+    width: 34px;
+    height: 34px;
+
+    background: url(images/ig.png);
+
+    margin-right: 25px;
+}
+
+.tt {
+    width: 34px;
+    height: 28px;
+
+    background: url(images/tt.png);
+}
+
+.simbolos {
+    display: flex;
+    flex-direction: row;
+}
+
+.up {
+    width: 47px;
+    height: 47px;
+
+    background: url(images/up.png);
+
+    margin-top: 30px;
+}
+
+.links {
+    margin-top: 74px;
+    margin-bottom: 65px;
+}
+
+@media (max-width: 900px) {
+    .footer {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+}
+
