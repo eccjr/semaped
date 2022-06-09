@@ -1,4 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&family=Radio+Canada:wght@700&display=swap');
+
+.container{
+  max-width: 1200px;
+  padding: .625rem 1.25rem;
+  margin: 0 auto;
+  box-sizing: border-box;
+  height: 75px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .header{
-  height: 70px;
-  background-color: purple;
+  background-color: #998BBE;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.header-menu{
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  font-family: 'Radio Canada', sans-serif;
+  color: #F2EDFF;
+  font-weight: 700;
+  font-size: 1.063rem;
+  position: relative;
+}
+
+.header-botao{
+  padding: 10px 12px;
+  display: inline-block;
+  background: linear-gradient(180deg, #FBD88A 0%, #FDD06B 64.06%, #FFCC5A 100%);
+  border-radius: 6px;
+  color: #946805;
+  font-family: 'Manrope', sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  border: 1.5px solid #9E6F04;
+  cursor: pointer;
+}
+
+.header-menu li{
+  position: relative;
+  transition: .3s; 
+}
+
+.header-menu li:hover{
+  color: #032354;
+} 
+
+.header-menu li+li ::before{
+  content: '';
+  display: inline-block;
+  position: absolute;
+  background-color: #F2EDFF;
+  width: .5px;
+  height: 34px;
+  top: -8px;
+  left: -15px;
+} 
+
+/* Menu mobile */
+
+.mobile-menu{
+  display: none;
+  cursor: pointer;
+}
+
+.button-and-menu{
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.mobile-menu div{
+  width: 35px;
+  height: 4px;
+  border-radius: 5px;
+  background-color: #F2EDFF;
+  margin: 5px;
+}
+
+@media (max-width: 950px){
+  .header-menu{
+    position: absolute;
+    top: 75px;
+    right: 0;
+    width: 50vw;
+    height: calc(100vh - 75px);
+    background: linear-gradient(280.91deg, #C8BBEB 10.4%, rgba(147, 129, 197, 0.88) 95.28%); 
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    transform: translateX(100%);
+    transition: .3s;
+    z-index: 999;
+  }
+  .header-menu li+li ::before{
+    display: none;
+  }
+  .mobile-menu{
+    display: block;
+  }
+}
+
+.header-menu.active{
+  transform: translateX(0);
+}
+
+.mobile-menu.active .line1 {
+  transform: rotate(-45deg) translate(-8px, 4.5px);
+}
+
+.mobile-menu.active .line2 {
+  opacity: 0;
+}
+
+.mobile-menu.active .line3 {
+  transform: rotate(45deg) translate(-8px, -6px);
 }
