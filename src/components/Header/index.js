@@ -39,7 +39,7 @@ export function Header(){
 
   return (
     <header className="header">
-      <div className="container">
+      <div className="container2">
         <Link to="/"><img className="header-logo" src="./logo.svg" alt="Logo" /></Link> 
           <nav>
             <ul className="header-menu" id="header-menu">

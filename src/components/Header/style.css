@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&family=Radio+Canada:wght@700&display=swap');
 
-.container{
+.container2{
   max-width: 1200px;
   padding: .625rem 1.25rem;
   margin: 0 auto;
@@ -17,6 +17,7 @@
   top: 0;
   left: 0;
   width: 100%;
+  z-index: 999;
 }
 
 .header-menu{
