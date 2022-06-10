@@ -10,7 +10,7 @@ import { SwiperItem } from "./swiper-item";
 
 export function Equipe(){
   return(
-    <section className="equipe">
+    <section className="equipe" id="equipe">
       <div className="equipe_box"> 
         <h1>Equipe organizadora</h1>
 

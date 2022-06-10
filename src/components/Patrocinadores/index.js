@@ -3,7 +3,7 @@ import {patrocinadores, small, large} from './patrocinadores.module.css'
 
 export function Patrocinadores(){
   return(
-    <section className={patrocinadores}>
+    <section className={patrocinadores} id="patrocinadores">
       <h2>Patrocinadores</h2>
       <ul className={large}>
         <img></img>

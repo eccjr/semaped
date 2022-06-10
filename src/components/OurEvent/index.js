@@ -3,7 +3,7 @@ import "./style.css";
 
 export function OurEvent(){
   return(
-    <section className="ourEvents">
+    <section className="ourEvents" id="informacoes">
       <div class="container">
         <h2>Conheça nosso evento</h2>
         <div class="flex-container ">
