@@ -5,7 +5,7 @@ import "./style.css";
 // dar margin-top ;)
 export function MainSection(){
   return(
-    <main className="mainSection">
+    <main id="home" className="mainSection">
             <img src="./banner.png" alt="Logo da Semana da Pedagogia"></img>
 
             <div className="semaped-text">
