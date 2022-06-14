@@ -18,6 +18,11 @@
     color: #F7FAFF;
 
 }
+@media screen and (max-width: 600px){
+  .seInscreva h2{
+    font-size: 20px;
+  }
+}
 
 .seInscreva button{
   box-sizing: border-box;

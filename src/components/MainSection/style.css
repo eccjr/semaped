@@ -7,6 +7,7 @@
 
   justify-content:space-around;
   align-items: center;
+  margin-top: 75px;
 }
 
 .mainSection img{
@@ -20,6 +21,7 @@
   .mainSection{
     flex-direction: column;
     align-items: center;
+    margin-top: unset;
   }
   .mainSection img{
     width: 100%;
