@@ -2,6 +2,7 @@
     width: 100%;
     /* height: 70vh; */
     margin-top: 5vh;
+    margin-bottom: 40px;
 }
 
 .crono_box {
@@ -56,8 +57,8 @@
 }
 
 .participante {
-    width: 630px;
-    height: 250px;
+    max-width: 630px;
+    min-height: 250px;
     display: flex;
 }
 
@@ -118,7 +119,7 @@
 }
 
 .part-conections .part-insta,.part-link {display: flex;}
-.part-conections .part-insta img,.part-link img{width: 18px;  height: auto;}
+.part-conections .part-insta img,.part-link img{width: 18px;  height: 18px;}
 
 .part-conections .part-insta span,.part-link span{
     margin-left: 10px;
@@ -126,4 +127,18 @@
 
 .part-link {
     margin-left: 50px;
+}
+
+@media screen and (max-width: 600px){
+    .participante{
+        flex-direction: column;
+    }
+    .part-half-1{
+        width: unset;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .part-half-2{
+        width: 100%;
+    }
 }

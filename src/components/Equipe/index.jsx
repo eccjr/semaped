@@ -15,14 +15,31 @@ export function Equipe(){
         <h1>Equipe organizadora</h1>
 
         <Swiper
-          slidesPerView={4}
-          //spaceBetween={100}
-          slidesPerGroup={4}
+          slidesPerView={2}
+          spaceBetween={100}
+          // slidesPerGroup={4}
           // loop={true}
           loopFillGroupWithBlank={true}
           navigation={true}
           modules={[Navigation]}
           className="mySwiper"
+          breakpoints={{
+            // when window width is >= 640px
+            600: {
+              slidesPerView: 2,
+              spaceBetween: 5
+            },
+            // when window width is >= 480px
+            720: {
+              slidesPerView: 3,
+              spaceBetween: 30
+            },
+            // when window width is >= 640px
+            900: {
+              slidesPerView: 4,
+              spaceBetween: 40
+            }
+          }}
         >
           <SwiperSlide><SwiperItem /></SwiperSlide>
           <SwiperSlide><SwiperItem /></SwiperSlide>
