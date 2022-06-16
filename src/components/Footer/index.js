@@ -8,9 +8,7 @@ import {
   logo,
   map,
   text,
-  email,
   email_text,
-  redes,
   fb,
   ig,
   tt,
@@ -52,7 +50,7 @@ export function Footer() {
             ></iframe>
           </div>
           <div className={text}>
-            <div className={email}>
+            <div>
               <p>Nosso e-mail para contato</p>
               <a
                 href="mailto:contatosempad@email.com"
@@ -62,7 +60,7 @@ export function Footer() {
                 contatosempad@email.com
               </a>
             </div>
-            <div className={redes}>
+            <div>
               <p>Nos siga nas redes</p>
               <ul className={simbolos}>
                 <li className={fb}></li>
@@ -77,4 +75,3 @@ export function Footer() {
     </footer>
   );
 }
-

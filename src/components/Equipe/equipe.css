@@ -1,36 +1,34 @@
 .equipe {
-    width: 100%;
-    /* height: 70vh; */
-    padding-top: 5vh;
-    background: linear-gradient(0deg, #E7E9EC, #E7E9EC);
-
+  width: 100%;
+  /* height: 70vh; */
+  padding-top: 5vh;
+  background: linear-gradient(0deg, #e7e9ec, #e7e9ec);
 }
 
 .equipe_box {
-    max-width: 95vw;
-    height: 100%;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+  max-width: 95vw;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
 
 .equipe_box h1 {
-    font-size: 25px;
-    font-weight: 500;
-    color: #01183A;
+  font-size: 25px;
+  font-weight: 500;
+  color: #01183a;
 }
 
 .mySwiper {
-    margin: 80px 0;
+  margin: 80px 0;
 
-    width: 80vw;
+  width: 80vw;
 }
 
 .slider-item {
-    width: 100%;
-    height: 350px;
+  width: 100%;
 }
 
 /* .slider-item:first-child {
@@ -41,11 +39,11 @@
 } */
 
 .slider-item img {
-    max-width: 100%;
-    /* min-width: 100%; */
-    height: auto;
-    object-fit: cover;
-    display: block;
+  max-width: 100%;
+  /* min-width: 100%; */
+  height: auto;
+  object-fit: cover;
+  display: block;
 }
 /* 
 .slider-item img {
@@ -54,42 +52,43 @@
     object-fit: cover;
   } */
 .slider-item h1 {
-    margin-top: 20px;
-    color: #01183A;
-    font-weight: 500;
-    font-size: 22px;
+  margin-top: 20px;
+  color: #01183a;
+  font-weight: 500;
+  font-size: 22px;
 }
 
 .slider-item h2 {
-    margin-top: 10px;
-    color: #343131;
-    font-weight: 400;
-    font-size: 18px;
+  margin-top: 10px;
+  color: #343131;
+  font-weight: 400;
+  font-size: 18px;
 }
 
-.swiper-button-next, .swiper-button-prev {
-    top: 37% !important;
-    background: #CC8D00 !important;
-    color: white !important;
-    border-radius: 50%;
-    padding: 8px 16px;
+.swiper-button-next,
+.swiper-button-prev {
+  top: 37% !important;
+  background: #cc8d00 !important;
+  color: white !important;
+  border-radius: 50%;
+  padding: 8px 16px;
 }
-
 
 .swiper-button-prev {
-    left: 0px !important;
+  left: 0px !important;
 }
 
 .swiper-button-next {
-    right: 0px !important;
+  right: 0px !important;
 }
 
 @media screen and (max-width: 480px) {
-    .swiper-button-next, .swiper-button-prev {
-        top: 70% !important;
-        background: none !important;
-        color: #CC8D00 !important;
-        border-radius: 50%;
-        padding: 8px 16px;
-    }
+  .swiper-button-next,
+  .swiper-button-prev {
+    top: 70% !important;
+    background: none !important;
+    color: #cc8d00 !important;
+    border-radius: 50%;
+    padding: 8px 16px;
+  }
 }

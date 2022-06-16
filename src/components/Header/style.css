@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&family=Radio+Canada:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700&family=Radio+Canada:wght@700&display=swap");
 
-.container2{
+.container2 {
   max-width: 1200px;
-  padding: .625rem 1.25rem;
+  padding: 0.625rem 1.25rem;
   margin: 0 auto;
   box-sizing: border-box;
   height: 75px;
@@ -11,8 +11,8 @@
   align-items: center;
 }
 
-.header{
-  background-color: #998BBE;
+.header {
+  background-color: #998bbe;
   position: fixed;
   top: 0;
   left: 0;
@@ -20,95 +20,98 @@
   z-index: 999;
 }
 
-.header-menu{
+.header-menu {
   display: flex;
   gap: 30px;
   justify-content: center;
-  font-family: 'Radio Canada', sans-serif;
-  color: #F2EDFF;
+  font-family: "Radio Canada", sans-serif;
+  color: #f2edff;
   font-weight: 700;
   font-size: 1.063rem;
   position: relative;
 }
 
-.header-botao{
+.header-botao {
   padding: 10px 12px;
   display: inline-block;
-  background: linear-gradient(180deg, #FBD88A 0%, #FDD06B 64.06%, #FFCC5A 100%);
+  background: linear-gradient(180deg, #fbd88a 0%, #fdd06b 64.06%, #ffcc5a 100%);
   border-radius: 6px;
   color: #946805;
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-weight: 700;
   font-size: 1rem;
-  border: 1.5px solid #9E6F04;
+  border: 1.5px solid #9e6f04;
   cursor: pointer;
 }
 
-.header-menu li{
+.header-menu li {
   position: relative;
-  transition: .3s; 
+  transition: 0.3s;
 }
 
-.header-menu li:hover{
+.header-menu li:hover {
   color: #032354;
-} 
+}
 
-.header-menu li+li ::before{
-  content: '';
+.header-menu li + li ::before {
+  content: "";
   display: inline-block;
   position: absolute;
-  background-color: #F2EDFF;
-  width: .5px;
+  background-color: #f2edff;
+  width: 0.5px;
   height: 34px;
   top: -8px;
   left: -15px;
-} 
+}
 
 /* Menu mobile */
 
-.mobile-menu{
+.mobile-menu {
   display: none;
   cursor: pointer;
 }
 
-.button-and-menu{
+.button-and-menu {
   display: flex;
   gap: 8px;
   align-items: center;
 }
 
-.mobile-menu div{
+.mobile-menu div {
   width: 35px;
   height: 4px;
   border-radius: 5px;
-  background-color: #F2EDFF;
+  background-color: #f2edff;
   margin: 5px;
 }
 
-@media (max-width: 950px){
-  .header-menu{
+@media (max-width: 950px) {
+  .header-menu {
     position: absolute;
     top: 75px;
     right: 0;
     width: 50vw;
-    height: calc(100vh - 75px);
-    background: linear-gradient(280.91deg, #C8BBEB 10.4%, rgba(147, 129, 197, 0.88) 95.28%); 
+    padding: 2rem 0;
+    background: linear-gradient(
+      280.91deg,
+      #c8bbeb 10.4%,
+      rgba(147, 129, 197, 0.88) 95.28%
+    );
     flex-direction: column;
     align-items: center;
-    justify-content: space-around;
     transform: translateX(100%);
-    transition: .3s;
+    transition: 0.3s;
     z-index: 999;
   }
-  .header-menu li+li ::before{
+  .header-menu li + li ::before {
     display: none;
   }
-  .mobile-menu{
+  .mobile-menu {
     display: block;
   }
 }
 
-.header-menu.active{
+.header-menu.active {
   transform: translateX(0);
 }
 
