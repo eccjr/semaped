@@ -3,6 +3,7 @@
     /* height: 70vh; */
     margin-top: 5vh;
     margin-bottom: 40px;
+   
 }
 
 .crono_box {
@@ -132,6 +133,7 @@
 @media screen and (max-width: 600px){
     .participante{
         flex-direction: column;
+        padding: 0 20px;
     }
     .part-half-1{
         width: unset;
@@ -140,5 +142,10 @@
     }
     .part-half-2{
         width: 100%;
+    }
+    .crono_dias {
+        align-items: center;
+        justify-content: center;
+        margin-left: 0px;
     }
 }

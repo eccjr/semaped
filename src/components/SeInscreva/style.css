@@ -21,6 +21,9 @@
   .seInscreva h2{
     font-size: 20px;
   }
+  .seInscreva{
+    padding: 0 20px;
+  }
 }
 
 .seInscreva button{

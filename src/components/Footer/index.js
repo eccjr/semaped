@@ -68,7 +68,7 @@ export function Footer() {
                 <li className={tt}></li>
               </ul>
             </div>
-            <a href="#home" className={up}></a>
+            {/* <a href="#home" className={up}></a> */}
           </div>
         </div>
       </div>

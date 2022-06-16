@@ -8,6 +8,7 @@ import "../components/reset.css"
 import { SeInscreva } from "../components/SeInscreva"
 import { Patrocinadores } from "../components/Patrocinadores"
 import { Equipe } from "../components/Equipe"
+import { BackToTop } from "../components/BackToTop"
 
 const IndexPage = () => {
   return (
@@ -20,6 +21,7 @@ const IndexPage = () => {
       <Patrocinadores/>
       <Equipe/>
       <Footer/>
+      <BackToTop/>
     </>
   )
 }

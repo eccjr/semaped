@@ -92,6 +92,7 @@
     right: 0;
     width: 50vw;
     padding: 2rem 0;
+    height: calc(100vh - 75px);
     background: linear-gradient(
       280.91deg,
       #c8bbeb 10.4%,

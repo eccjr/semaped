@@ -21,16 +21,16 @@ export function Header() {
         <nav>
           <ul ref={headerMenu} className="header-menu" id="header-menu">
             <li>
-              <Link to="/#informacoes">Informações</Link>
+              <Link to="/#informacoes" onClick={toggleNavbar}>Informações</Link>
             </li>
             <li>
-              <Link to="/#patrocinadores">Patrocinadores</Link>
+              <Link to="/#patrocinadores" onClick={toggleNavbar}>Patrocinadores</Link>
             </li>
             <li>
-              <Link to="/#cronograma">Cronograma</Link>
+              <Link to="/#cronograma" onClick={toggleNavbar}>Cronograma</Link>
             </li>
             <li>
-              <Link to="/#equipe">Equipe</Link>
+              <Link to="/#equipe" onClick={toggleNavbar}>Equipe</Link>
             </li>
           </ul>
         </nav>
