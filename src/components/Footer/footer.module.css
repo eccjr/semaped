@@ -22,7 +22,10 @@
     align-items: flex-start;
     gap: 50px;
   }
-  
+  .footer .center svg{
+    width: 114px;
+    fill: white;
+  }
   .footer .center .left {
     max-width: 210px;
     width: 100%;
