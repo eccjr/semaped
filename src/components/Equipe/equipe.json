@@ -1,0 +1,29 @@
+{
+  "equipe":[
+    {"foto": "image28.png", "nome": "Lucas", "cargo": "Presidente"},
+    {"foto": "image26.png", "nome": "Camila", "cargo": "Vice-presidente"},
+    {"foto": "image19.png", "nome": "Mariane", "cargo": "Vice-presidente"},
+    {"foto": "image5.png", "nome": "Tatiely", "cargo": "Subcomissão de divulgação"},
+    {"foto": "image6.png", "nome": "Larissa Mazi", "cargo": "Subcomissão de patrocínio"},
+    {"foto": "image7.png", "nome": "Giulia", "cargo": "Subcomissão de divulgação"},
+    {"foto": "image8.png", "nome": "Gabriele Souza", "cargo": "Subcomissão de alimentação"},
+    {"foto": "image9.png", "nome": "Gabrilela Reis", "cargo": "Subcomissão científica"},
+    {"foto": "image10.png", "nome": "Júlia", "cargo": "Subcomissão de certificação"},
+    {"foto": "image11.png", "nome": "Larisa Manzano", "cargo": "Subcomissão financeira"},
+    {"foto": "image12.png", "nome": "Mariele", "cargo": "Subcomissão financeira"},
+    {"foto": "image13.png", "nome": "Leonardo", "cargo": "Subcomissão de certificação"},
+    {"foto": "image14.png", "nome": "Beatriz", "cargo": "Subcomissão de certificação"},
+    {"foto": "image15.png", "nome": "Marcella", "cargo": "Subcomissão administrativa"},
+    {"foto": "image16.png", "nome": "Nathalia", "cargo": "Subcomissão administrative"},
+    {"foto": "image17.png", "nome": "Edinayara", "cargo": "Subcomissão de divulgação"},
+    {"foto": "image18.png", "nome": "Jocasta", "cargo": "Subcomissão de divulgação"},
+    {"foto": "image20.png", "nome": "Juliana", "cargo": "Subcomissão científica"},
+    {"foto": "image21.png", "nome": "Gisele Naves", "cargo": "Subcomissão de patrocínios"},
+    {"foto": "image22.png", "nome": "Lorenza", "cargo": "Subcomissão de certificação"},
+    {"foto": "image23.png", "nome": "Laura", "cargo": "Subcomissão de certificação"},
+    {"foto": "image24.png", "nome": "Danielly", "cargo": "Subcomissão de alimentação"},
+    {"foto": "image25.png", "nome": "Larissa", "cargo": "Subcomissão de alimentação"},
+    {"foto": "image27.png", "nome": "Gisele Machado", "cargo": "Subcomissão científica"}
+
+  ]
+}

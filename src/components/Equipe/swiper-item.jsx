@@ -1,13 +1,13 @@
 import React from "react";
 import "./equipe.css";
 
-export function SwiperItem() {
+export function SwiperItem({foto, nome, cargo}) {
     return (
         <>
             <div className="slider-item">
-                <img src="https://cdn.discordapp.com/attachments/593999593386278912/984289652959744081/unknown.png"  alt="equipe" />
-                <h1>Jorge bueno</h1>
-                <h2>Presidente</h2>
+                <img src={`./${foto}`}  alt="equipe" />
+                <h1>{nome}</h1>
+                <h2>{cargo}</h2>
             </div>
         </>
     )
