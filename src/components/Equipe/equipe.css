@@ -42,6 +42,7 @@
 .slider-item img {
   max-width: 100%;
   /* min-width: 100%; */
+  width: 200px;
   height: 250px;
   object-fit: cover;
   display: block;
