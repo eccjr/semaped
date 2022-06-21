@@ -26,6 +26,9 @@
     display: flex;
     margin-left: 26px;
 }
+.part-logo{
+    border-radius: 50%;
+}
 
 .crono_dias button {
     background-color: #535050;
@@ -125,8 +128,7 @@
 .part-conections .part-insta span,.part-link span{
     margin-left: 10px;
 }
-
-.part-link {
+.part-rede:nth-child(2){
     margin-left: 50px;
 }
 
