@@ -14,14 +14,23 @@ export function Participante({nome, image_url,titulo,horario_loc,descricao,insta
                     <p className="part-time">{horario_loc}</p>
                     <p className="part-desc">{descricao}</p>
                     <div className="part-conections">
-                        <div className="part-insta">
-                            <img src="https://cdn.discordapp.com/attachments/593999593386278912/980605402255351818/logotipo-do-instagram.png" alt="instagram"/>  
-                            <span>{instagram}</span>
-                        </div>
-                        <div className="part-link">
-                            <img src="https://cdn.discordapp.com/attachments/593999593386278912/980605726479241216/logotipo-do-linkedin.png" alt="linkedin"/> 
-                            <span>{linkedin}</span>
-                        </div>     
+                        
+                        {
+                            instagram !== "" &&
+                                <div className="part-insta">
+                                <img src="https://cdn.discordapp.com/attachments/593999593386278912/980605402255351818/logotipo-do-instagram.png" alt="instagram"/>  
+                                <span>{instagram}</span>
+                                </div>
+                        }
+
+                        {
+                            linkedin !== "" &&
+                                <div className="part-link">
+                                    <img src="https://cdn.discordapp.com/attachments/593999593386278912/980605726479241216/logotipo-do-linkedin.png" alt="linkedin"/> 
+                                    <span>{linkedin}</span>
+                                </div> 
+                        }  
+                            
                     </div>                
                 </div>
             </div>
