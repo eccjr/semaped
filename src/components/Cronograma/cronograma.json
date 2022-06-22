@@ -4,27 +4,94 @@
         
     ],
     "dia11": [
-        { "nome": "Francisco Paes", "image_url": "francisco.jpeg", "titulo": "Minicurso de música na infância", "horario_loc": "20:30 hrs - 22:30 hrs / Anf 1", "descricao": "Licenciado em Música pela UNICAMP( 2005-2011). Estudou Violoncelo no CMDCC- Conservatório Musical de Tatuí-SP ( 2002- 2004). Atualmente está cursando Licenciatura em Pedagogia (2013- em andamento) e Mestrado em Educação (2015- em andamento) na UNESP- Câmpus de Rio Claro-SP. Profissionalmente atuou como professor da rede pública de ensino paulista nos níveis Fundamental e Médio e como Violoncelista nas seguintes orquestras: Orquestra Filarmônica de São Caetano do Sul-SP; Orquestra Sinfônica de Rio Claro; Orquestra Sinfônica da UNICAMP; Orquestra Filarmônica de Rio Claro; Orquestra Sinfônica de São Carlos. Foi Coordenador da Escola de Música 'Prof. Fábio Marasca' em Rio Claro-SP, onde também atuou como Professor de Instrumento, Prática Orquestral e Teoria e História da Música. Atualmente é Professor de Música na Educação Infantil e Fundamental do Colégio Anglo Claretiano em Rio Claro-SP. Areas de atuação: ensino de música e formação de professores.", "instagram": "", "linkedin": "" },
-        { "nome": "Rodrigo Azevedo", "image_url": "rodrigo.jpeg", "titulo": "Literatura infantil", "horario_loc": "20:30 hrs - 22:30 hrs", "descricao": "Rodrigo Azevedo é Doutorando e mestre em educação pela Unesp. Coordenador pedagógico efetivo na rede municipal de São José do Rio Preto e atualmente é formador de coordenadores pedagógicos na mesma rede. É pesquisador da literatura para as infâncias e membro do CEPLLI, Centro de Estudo e Pesquisa em Leitura, Literatura e Infância da Unesp de Marília-SP.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" },
-        { "nome": "Ana Coelho6", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" },
-        { "nome": "Ana Coelho7", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" }
+        { "nome": "Francisco Paes", "image_url": "francisco.jpeg", "titulo": "Minicurso de música na infância", "horario_loc": "20:30 hrs - 22:30 hrs", "descricao": "Licenciado em Música pela UNICAMP( 2005-2011). Estudou Violoncelo no CMDCC- Conservatório Musical de Tatuí-SP ( 2002- 2004). Atualmente está cursando Licenciatura em Pedagogia (2013- em andamento) e Mestrado em Educação (2015- em andamento) na UNESP- Câmpus de Rio Claro-SP. Profissionalmente atuou como professor da rede pública de ensino paulista nos níveis Fundamental e Médio e como Violoncelista nas seguintes orquestras: Orquestra Filarmônica de São Caetano do Sul-SP; Orquestra Sinfônica de Rio Claro; Orquestra Sinfônica da UNICAMP; Orquestra Filarmônica de Rio Claro; Orquestra Sinfônica de São Carlos. Foi Coordenador da Escola de Música 'Prof. Fábio Marasca' em Rio Claro-SP, onde também atuou como Professor de Instrumento, Prática Orquestral e Teoria e História da Música. Atualmente é Professor de Música na Educação Infantil e Fundamental do Colégio Anglo Claretiano em Rio Claro-SP. Areas de atuação: ensino de música e formação de professores.", "instagram": "", "linkedin": "" },
+        { "nome": "Rodrigo Azevedo", "image_url": "rodrigo.jpeg", "titulo": "Literatura infantil", "horario_loc": "20:30 hrs - 22:30 hrs", "descricao": "Rodrigo Azevedo é Doutorando e mestre em educação pela Unesp. Coordenador pedagógico efetivo na rede municipal de São José do Rio Preto e atualmente é formador de coordenadores pedagógicos na mesma rede. É pesquisador da literatura para as infâncias e membro do CEPLLI, Centro de Estudo e Pesquisa em Leitura, Literatura e Infância da Unesp de Marília-SP.", "instagram": "", "linkedin": "" },
+        { 
+            "nome": "Profa. Mes. Ieda Lugli", 
+            "image_url": "ieda.png", 
+            "titulo": "Minicurso de desenvolvimento moral na educação infantil", 
+            "horario_loc": "20:30 hrs - 22:20 hrs", 
+            "descricao": "Professora PEB I na Educação Infantil do ensino público municipal de SJRP/SP, desde 2012. Tem graduação/licenciatura em Pedagogia pelo Centro Universitário do Norte Paulista (UNORP) em 2007, mestrado acadêmico pelo PPG-EPF (Ensino e Processos Formativos) Interunidades da Universidade Estadual Paulista (UNESP - IBILCE) em 2018, na linha de pesquisa Infância e Adolescência. Tem duas especializações em Educação - Especialização em Pedagogia e Educação Infantil pelo Instituto Superior de Educação Ceres e Especialização em Fundamentos da Educação pela Faculdade Campos Elíseos. Participa do Grupo de Estudos e Pesquisas em Desenvolvimento sociomoral de crianças e adolescentes (CNPq), do Grupo de Estudos GIRA (Grupo de Estudos da Cultura da Infância)/SME. Desenvolve pesquisas e estudos na própria escola municipal sobre pedagogias participativas na ressignificação de práticas pedagógicas priorizando o protagonismo das crianças no aprendizado ativo, como política educativa a pequena infância (baseados na temática metodológica de Loris Malaguzzi - Reggio Emilia) na perspectiva da documentação pedagógica.", 
+            "instagram": "", 
+            "linkedin": "" 
+        },        
+        { 
+            "nome": "Profa. Danila Bassi", 
+            "image_url": "danila.jpeg",  
+            "titulo": "Minicurso de contação de histórias", 
+            "horario_loc": "20:30 hrs - 22:20 hrs", 
+            "descricao": "Graduada em Pedagogia e em Psicopedagogia Clínica pela E.P.S.I.B.A - Escuela Psicopedagógica de Buenos Aires,Pós-graduada em Educação Especial e Inclusiva e em Intervenção Familiar,ABA - Análise do Comportamento Aplicada em Autismo e Mestra em Educação. Há 27 anos atuo na Educação Infantil, Ensino Fundamental e Ensino Superior. Há 20 anos atuo como psicopedagoga clínica no Espaço Psicopedagógico.Sou contadora de Histórias, coordenadora do Projeto “Contos de lá e de cá” e idealizadora do grupo de Teatro Infantil “Quem conta um conto”, possuo um canal no Youtube com 5.789 inscritos e sou ganhadora do Prêmio Nelson Seixas de 2021 com a pesquisa “ As histórias infantis como recurso terapêutico”.", 
+            "instagram": "", 
+            "linkedin": "" 
+        },
+        { 
+            "nome": "Profa. Bruna Carvalho", 
+            "image_url": "bruna.jpeg", 
+            "titulo": "Minicurso de Alfabetização nos anos iniciais do ensino fundamental", 
+            "horario_loc": "20:30 hrs - 22:20 hrs", 
+            "descricao": "Graduada em Pedagogia e em Psicopedagogia Clínica pela E.P.S.I.B.A - Escuela Psicopedagógica de Buenos Aires,Pós-graduada em Educação Especial e Inclusiva e em Intervenção Familiar,ABA - Análise do Comportamento Aplicada em Autismo e Mestra em Educação. Há 27 anos atuo na Educação Infantil, Ensino Fundamental e Ensino Superior. Há 20 anos atuo como psicopedagoga clínica no Espaço Psicopedagógico.Sou contadora de Histórias, coordenadora do Projeto “Contos de lá e de cá” e idealizadora do grupo de Teatro Infantil “Quem conta um conto”, possuo um canal no Youtube com 5.789 inscritos e sou ganhadora do Prêmio Nelson Seixas de 2021 com a pesquisa “ As histórias infantis como recurso terapêutico”.", 
+            "instagram": "", 
+            "linkedin": "" 
+        },
+        { 
+            "nome": "Vanessa Sanches", 
+            "image_url": "vanessa.png", 
+            "titulo": "Minicurso de jogos e brincadeiras na educação infantil", 
+            "horario_loc": "20:30 hrs - 22:20 hrs", 
+            "descricao": "Pedagoga, Mestranda em Educação pela FFCLRP USP - Riberão Preto, Especialista, Pós Graduada em Coordenação do Trabalho Pedagógico pela UFSCAR e Artes-Manuais para Educação pela FACON. Atualmente atua como supervisora de Ensino na Rede Municipal de Educação da cidade de São José do Rio Preto, estado de São Paulo. Foi Coordenadora Pedagógica na mesma rede por 7 anos em escolas de Ensino Fundamental e Educação Infantil. Formadora de professores pelo Pacto Nacional de Alfabetização na Idade Certa da Educação Infantil e Ensino fundamental coordenado pela Unesp. Integrou o Conselho Municipal de Educação e o Conselho do Fundeb, colegiados de grande importância para o controle social e garantia de qualidade da educação na cidade. Atualmente é Conselheira no Conselho Municipal de Educação de São José do Rio Preto ",
+            "instagram": "", 
+            "linkedin": "" 
+        },
+        { 
+            "nome": "Flávia Motta de Paula Galvão", 
+            "image_url": "flavia.jpeg", 
+            "titulo": "Minicurso de produção de discursos modais nos anos iniciais do ensino fundamental", 
+            "horario_loc": "20:30 hrs - 22:20 hrs", 
+            "descricao": "Possui graduação em Letras pela Universidade Federal de Uberlândia (2011), habilitação em Português/Inglês, Mestrado (2014) e Doutorado (2019) em Estudos Linguísticos pela mesma universidade. Atualmente, é Docente Adjunta A no Centro de Ensino e Pesquisa Aplicada à Educação da Universidade Federal de Goiás (CEPAE/UFG). Tem experiência na área de Língua Portuguesa e Linguística, com ênfase em Análise de Discurso, atuando principalmente nos seguintes temas: escrita; representação; mídia; educação; formação profissional escolar; letramento.",
+            "instagram": "", 
+            "linkedin": "" 
+        },
+        { 
+            "nome": "Prof. Paulo Paes", 
+            "image_url": "paulo.jpeg", 
+            "titulo": "Minicurso de artes no ensino fundamental", 
+            "horario_loc": "20:30 hrs - 22:20 hrs", 
+            "descricao": "Pós-doutor pela PPGSSPS-Universidade Estadual de Londrina; doutor em educação pela Universidade Federal de São Carlos; mestre em educação e graduado em artes visuais pela Universidade federal de Mato Grosso do Sul. É professor associado da UFMS (artes visuais e psicologia do desenvolvimento e da aprendizagem). Tem experiência na área de Educação, atuando principalmente nas seguintes áreas: ensino de artes visuais; educação e emancipação humana; socioeducação e redução de danos na educação; e Psicologia Histórico-Cultural com foco em Vigotski.",
+            "instagram": "", 
+            "linkedin": "" 
+        }
     ],
     "dia12": [
-        { "nome": "Ana Coelho8", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" },
-        { "nome": "Ana Coelho9", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" },
-        { "nome": "Ana Coelho10", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" },
-        { "nome": "Ana Coelho11", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" }
+        { 
+            "nome": "Prof. Dra. Alessandra Arce", 
+            "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", 
+            "titulo": "Conferência (BNCC)", 
+            "horario_loc": "20:30 hrs - 22:20 hrs", 
+            "descricao": "",
+            "instagram": "", 
+            "linkedin": "" 
+        }
     ],
     "dia13": [
-        { "nome": "Ana Coelho12", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" },
-        { "nome": "Ana Coelho13", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" },
-        { "nome": "Ana Coelho14", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" },
-        { "nome": "Ana Coelho15", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" }
+        { 
+            "nome": "", 
+            "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", 
+            "titulo": "Com. orais", 
+            "horario_loc": "19:30 hrs - 23:00 hrs", 
+            "descricao": "", 
+            "instagram": "", 
+            "linkedin": "" 
+        }
     ],
     "dia14": [
-        { "nome": "Ana Coelho17", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" },
-        { "nome": "Ana Coelho18", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" },
-        { "nome": "Ana Coelho19", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" },
-        { "nome": "Ana Coelho20", "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", "titulo": "Atividade Cultural - Dança Flamenca", "horario_loc": "19:30 hrs - 20:30 hrs / Anf 1", "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec egestas, nulla ut luctus euismod, tortor erat sagittis nisi, vitae elementum massa nisi sit amet elit.", "instagram": "@ana_coelho", "linkedin": "Ana Coelho" }
+        { 
+            "nome": "Prof. Dr. Newton Duarte", 
+            "image_url": "newton.jpeg", 
+            "titulo": "Conferência de encerramento", 
+            "horario_loc": "20:30 hrs - 22:20 hrs", 
+            "descricao": "Nascido na cidade de São Paulo, graduou-se em Pedagogia pela Universidade Federal de São Carlos em 1985 e obteve o título de Mestre em Educação pela mesma universidade em 1987. Defendeu sua tese de doutorado na Faculdade de Educação da UNICAMP, em 1992. Desde 1988 é docente da UNESP e leciona no campus de Araraquara. Nessa universidade obteve, em 1999 o título de Livre-Docente e em 2009 foi nomeado para o cargo de Professor Titular. De agosto de 2003 a junho de 2004 realizou pós-doutorado, com bolsa da CAPES, no Ontario Institute for Studies in Education (OISE) na Universidade de Toronto, Canadá. De agosto de 2011 a julho de 2012 foi pesquisador visitante, com bolsa da CAPES, Centre for Social and Political Thought (CSPT), Universidade de Sussex, Brighton, Inglaterra. De setembro de 2019 a março de 2020 foi pesquisador visitante no Institute for the Humanities, Universidade Simon Fraser, Vancouver, Canadá, tendo recebido bolsa da FAPESP para o período de novembro/2019 a fevereiro/2020. Desde 1996 suas pesquisas têm sido apoiadas pelo CNPq na forma de bolsa de produtividade em pesquisa. Coordena o grupo de pesquisa Estudos Marxistas em Educação que conta com pesquisadores de várias universidades brasileiras. É pesquisador associado ao Institute for the Humanities, University of Simon Fraser, Vancouver, Canadá. É autor de livros, capítulos de livros e artigos, publicados no Brasil e no exterior. Entre seus trabalhos destacam-se os livros: Os conteúdos escolares e a ressurreição dos mortos (2ª edição em 2021); Conhecimento Escolar e Luta de Classes: a pedagogia histórico-crítica contra a barbárie (2021) em coautoria com Dermeval Saviani; A Individualidade Para Si (3ª edição em 2013), Vigotski e o Aprender a Aprender: crítica às apropriações neoliberais e pós-modernas da teoria vigotskiana (5ª edição, 2011); Sociedade do Conhecimento ou Sociedade das Ilusões? (2003); Crítica ao Fetichismo da Individualidade (Org.; 2ª edição em 2012); Critical Perspectives on Activity: Explorations across Education, Work and Everyday Life (2006) co-editada com Peter Sawchuk e Mohamed Elhammoumi; Arte, Conhecimento e Paixão na Formação Humana: Sete Ensaios de Pedagogia Histórico-Crítica (2010) em coautoria com Sandra Della Fonte;. Seus atuais projetos de pesquisa são: 1) Fundamentos éticos da pedagogia histórico-crítica: relações entre determinismo e liberdade em Lukács e Gramsci; 2) Arte e formação humana em Lukács e Vigotski; 3) A perspectiva marxista em educação e as pedagogias contemporâneas.", 
+            "instagram": "", 
+            "linkedin": "" 
+        }
     ]
 }
