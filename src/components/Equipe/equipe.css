@@ -31,7 +31,9 @@
 
 .slider-item {
   width: 100%;
-  
+  align-items: center;
+  display: flex;
+  flex-direction: column;
 }
 
 /* .slider-item:first-child {
@@ -48,6 +50,8 @@
   height: 250px;
   object-fit: cover;
   display: block;
+  border-radius:3px;
+  object-fit: cover;
 }
 /* 
 .slider-item img {
@@ -97,6 +101,7 @@
   }
   .swiper-slide{
     margin-bottom: 10px !important;
+    width: 100% !important;
   }
 } 
 @media screen and (min-width: 600px) {
