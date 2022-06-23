@@ -16,6 +16,8 @@
 .crono_box h1 {
     font-size: 25px;
     font-weight: 500;
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
 }
 
 /*/////////////////////////////// Dias ///////////////////////////////
@@ -38,6 +40,10 @@
     color: white;
     font-weight: 500;
     border-radius: 1.83px;
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    max-width: 89.86px;
+    width: 100%;
 }
 
 .crono_dias button:not(:first-child) {
@@ -87,6 +93,7 @@
     font-weight: 500;
     margin-top: 24px;
     font-size: 20px;
+    color: #01183A;
 }
 
 .part-half-2 {
@@ -100,6 +107,9 @@
 .part-title {
     font-weight: 500;
     font-size: 20px;
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    color: #01183A;
 }
 
 .part-time {
@@ -107,6 +117,8 @@
     font-weight: 500;
     font-size: 19px;
     margin-top: 12px;
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
 }
 
 .part-desc {
