@@ -17,10 +17,12 @@ export function Participante({nome, image_url,titulo,horario_loc,descricao,insta
                     <p className={visible ? "part-desc part-desc-hidden" : "part-desc part-desc-visible"}>
                         {descricao}
                     </p>
-                    <button className="btn-more" onClick={() => setVisible(!visible)}>
-                        {visible ? "Ler mais" : "Ler menos"}
-                    </button>
 
+                    { descricao &&
+                        <button className="btn-more" onClick={() => setVisible(!visible)}>
+                            {visible ? "Ler mais" : "Ler menos"}
+                        </button>
+                    }
 
                     <div className="part-conections">
                         {instagram &&
