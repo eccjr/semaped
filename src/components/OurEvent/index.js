@@ -14,7 +14,7 @@ export function OurEvent(){
           </div>
           <div class="event-card yellow">
             <img src="./lapis.png"></img>
-            <h4>08 minicursos/oficinas</h4>
+            <h4>08 minicursos / oficinas</h4>
             <p>e 3 conferências</p>
           </div>
           <div class="event-card blue">
