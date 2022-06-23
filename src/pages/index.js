@@ -9,10 +9,14 @@ import { SeInscreva } from "../components/SeInscreva"
 import { Patrocinadores } from "../components/Patrocinadores"
 import { Equipe } from "../components/Equipe"
 import { BackToTop } from "../components/BackToTop"
+import { Helmet } from "react-helmet"
 
 const IndexPage = () => {
   return (
     <>
+      <Helmet
+        title="SEMAPED"
+      />
       <Header/>
       <MainSection/>
       <OurEvent/>

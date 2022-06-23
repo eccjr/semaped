@@ -62,6 +62,15 @@
 /*/////////////////////////////// Participantes ///////////////////////////////
 --                                                                           --
 ///////////////////////////////// Participantes //////////////////////////////*/
+.crono_box h2{
+  font-family: 'Outfit', sans-serif;
+  font-style: normal;
+  font-size: 28px;
+  font-weight: 500;
+  color: #01183A;
+  margin-bottom: 80px;
+}
+
 .crono_participantes {
     margin-top: 70px;
     margin-left: 24px;
@@ -137,10 +146,6 @@
 
 .part-desc-hidden {
     display: -webkit-box;
-    -webkit-line-clamp: 8;
-    line-clamp: 8;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
 }
 
 .btn-more {

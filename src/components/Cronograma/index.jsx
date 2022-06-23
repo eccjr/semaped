@@ -13,27 +13,27 @@ export function Cronograma(){
     switch (dias) {
       case 0:
         setDias(0);
-        setParticipantes(jsonData.dia10);
+        setParticipantes(jsonData.dia19);
         break;
       case 1:
         setDias(1);
         setParticipantes([]);
-        setParticipantes(jsonData.dia11);
+        setParticipantes(jsonData.dia20);
         break;
       case 2:
         setDias(2);
         setParticipantes([]);
-        setParticipantes(jsonData.dia12);
+        setParticipantes(jsonData.dia21);
         break;
       case 3:
         setDias(3);
         setParticipantes([]);
-        setParticipantes(jsonData.dia13);
+        setParticipantes(jsonData.dia22);
         break;
       case 4:
         setDias(4);
         setParticipantes([]);
-        setParticipantes(jsonData.dia14);
+        setParticipantes(jsonData.dia23);
         break;
       default:
         break;
@@ -44,14 +44,14 @@ export function Cronograma(){
   return (
     <section className="cronograma" id="cronograma">
       <div className="crono_box">
-          <h1>Cronograma</h1>
+          <h2>Cronograma</h2>
 
           <div className="crono_dias">
-            <button onClick={() => setDias(0)} className={ dias===0 ? "crono_dias_active" : "" } >Dia 10</button>
-            <button onClick={() => setDias(1)} className={ dias===1 ? "crono_dias_active" : "" } >Dia 11</button>
-            <button onClick={() => setDias(2)} className={ dias===2 ? "crono_dias_active" : "" } >Dia 12</button>
-            <button onClick={() => setDias(3)} className={ dias===3 ? "crono_dias_active" : "" } >Dia 13</button>
-            <button onClick={() => setDias(4)}className={ dias===4 ? "crono_dias_active" : "" } >Dia 14</button>
+            <button onClick={() => setDias(0)} className={ dias===0 ? "crono_dias_active" : "" } >Dia 19</button>
+            <button onClick={() => setDias(1)} className={ dias===1 ? "crono_dias_active" : "" } >Dia 20</button>
+            <button onClick={() => setDias(2)} className={ dias===2 ? "crono_dias_active" : "" } >Dia 21</button>
+            <button onClick={() => setDias(3)} className={ dias===3 ? "crono_dias_active" : "" } >Dia 22</button>
+            <button onClick={() => setDias(4)}className={ dias===4 ? "crono_dias_active" : "" } >Dia 23</button>
           </div>
 
           <div className="crono_participantes">

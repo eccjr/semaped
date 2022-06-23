@@ -9,12 +9,12 @@ export function OurEvent(){
         <div class="flex-container ">
           <div class="event-card purple">
             <img src="./calendario.png"></img>
-            <h4>De 10 a 15 de setembro</h4>
-            <p>Das 19:30 às 23:00</p>
+            <h4>De 19 a 23 de setembro</h4>
+            <p>Das 19:30 às 22:30</p>
           </div>
           <div class="event-card yellow">
             <img src="./lapis.png"></img>
-            <h4>08 minicursos / oficinas</h4>
+            <h4>08 palestras / oficinas</h4>
             <p>e 3 conferências</p>
           </div>
           <div class="event-card blue">

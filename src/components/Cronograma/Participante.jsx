@@ -1,9 +1,10 @@
 import React, {useState} from "react";
 import "./cronograma.css";
 
-export function Participante({nome, image_url,titulo,horario_loc,descricao,instagram,linkedin}) {
+export function Participante({nome, image_url,titulo,horario_loc,descricao="",instagram,linkedin}) {
     
     const [visible, setVisible] = useState(true)
+    const [textoIni, _] = useState(descricao.slice(0,320))
     return (
         <>
             <div className="participante">
@@ -15,10 +16,9 @@ export function Participante({nome, image_url,titulo,horario_loc,descricao,insta
                     <p className="part-title">{titulo}</p>
                     <p className="part-time">{horario_loc}</p>
                     <p className={visible ? "part-desc part-desc-hidden" : "part-desc part-desc-visible"}>
-                        {descricao}
+                    {visible && descricao.length > 320 ? `${textoIni} ...` : descricao}
                     </p>
-
-                    { descricao &&
+                    { descricao.length > 320 &&
                         <button className="btn-more" onClick={() => setVisible(!visible)}>
                             {visible ? "Ler mais" : "Ler menos"}
                         </button>
