@@ -62,6 +62,7 @@ export function Cronograma(){
                 titulo={participante.titulo}
                 horario_loc={participante.horario_loc}
                 descricao={participante.descricao}
+                descricaoEscondida={participante.descricaoEscondida}
                 instagram={participante.instagram}
                 linkedin={participante.linkedin}
               />

@@ -129,6 +129,22 @@
     line-height: 28px;
 }
 
+.btn-more {
+    padding: 7px;
+    display: inline-block;
+    background: linear-gradient(180deg, #fbd88a 0%, #fdd06b 64.06%, #ffcc5a 100%);
+    border-radius: 6px;
+    color: #946805;
+    font-family: "Manrope", sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    border: 1.5px solid #9e6f04;
+    cursor: pointer;
+    max-width: 150px;
+    width: 100%;
+    margin-top: 10px;
+}
+
 .part-conections {
     display: flex;
     margin-top: 35px;
