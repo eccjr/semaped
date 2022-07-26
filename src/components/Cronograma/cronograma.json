@@ -1,6 +1,15 @@
 {
     "dia19": [
         { 
+            "nome": "", 
+            "image_url": "cultural.jpeg", 
+            "titulo": "Atividade cultural: Dança flamenca", 
+            "horario_loc": "19h30min - 20h30min", 
+            "descricao": "",
+            "instagram": "", 
+            "linkedin": "" 
+        },
+        { 
             "nome": "Paulo Paes", 
             "image_url": "paulo.jpeg", 
             "titulo": "Conferência de abertura", 
@@ -12,6 +21,15 @@
         
     ],
     "dia20": [
+        { 
+            "nome": "", 
+            "image_url": "obras.jpeg", 
+            "titulo": "Atividade cultural: Exposição de obras", 
+            "horario_loc": "19h30min - 20h30min", 
+            "descricao": "",
+            "instagram": "", 
+            "linkedin": "" 
+        },
         { 
             "nome": "Francisco Paes", 
             "image_url": "francisco.jpeg", 
@@ -88,8 +106,17 @@
     "dia21": [
         { 
             "nome": "", 
-            "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", 
-            "titulo": "At. cultural Mostra pedagógica Isabela e Gi (Voz e violão)", 
+            "image_url": "", 
+            "titulo": "Mostra pedagógica", 
+            "horario_loc": "19h30min - 20h30min", 
+            "descricao": "Apresentação de trabalhos e práticas pedagógicas de professores de escolas públicas e privadas.",
+            "instagram": "", 
+            "linkedin": "" 
+        },
+        { 
+            "nome": "", 
+            "image_url": "voz.jpeg", 
+            "titulo": "Atividade cultural: Voz e violão", 
             "horario_loc": "19h30min - 20h30min", 
             "descricao": "",
             "instagram": "", 
@@ -97,7 +124,7 @@
         },
         { 
             "nome": "", 
-            "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", 
+            "image_url": "conversa.jpeg", 
             "titulo": "Roda de bate-papo e troca de experiências entre professores da rede pública, sobre o ensino em tempos de pandemia e a volta as salas de aula.", 
             "horario_loc": "20h30min - 22h30min", 
             "descricao": "", 
@@ -108,18 +135,18 @@
     "dia22": [
         { 
             "nome": "", 
-            "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", 
-            "titulo": "At. cultural Bateria", 
+            "image_url": "bateria.jpeg", 
+            "titulo": "Atividade cultural: Bateria", 
             "horario_loc": "19h30min - 20h30min", 
-            "descricao": "", 
+            "descricao": "",
             "instagram": "", 
             "linkedin": "" 
         },
 
         { 
             "nome": "", 
-            "image_url": "https://cdn.discordapp.com/attachments/593999593386278912/980589318127108117/user.png", 
-            "titulo": "Com. orais", 
+            "image_url": "", 
+            "titulo": "Comunicações orais", 
             "horario_loc": "20h30min - 22h30min", 
             "descricao": "", 
             "instagram": "", 
@@ -128,6 +155,15 @@
 
     ],
     "dia23": [
+        { 
+            "nome": "", 
+            "image_url": "danca.jpeg", 
+            "titulo": "Atividade cultural: grupo de dança ibilce", 
+            "horario_loc": "19h30min - 20h30min", 
+            "descricao": "",
+            "instagram": "", 
+            "linkedin": "" 
+        },
         { 
             "nome": "Prof. Dr. Newton Duarte", 
             "image_url": "newton.jpeg", 

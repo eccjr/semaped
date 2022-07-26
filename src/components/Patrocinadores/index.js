@@ -6,15 +6,15 @@ export function Patrocinadores(){
     <section className={patrocinadores} id="patrocinadores">
       <h2>Patrocinadores</h2>
       <ul className={large}>
-        <img></img>
-        <img></img>
-        <img></img>
+        <img src="./GBD.png" alt=""></img>
+        <img src="./geci.png" alt=""></img>
+        <img alt=""></img>
       </ul>
       <ul className={small}>
-        <img></img>
-        <img></img>
-        <img></img>
-        <img></img>
+        <img alt=""></img>
+        <img alt=""></img>
+        <img alt=""></img>
+        <img alt=""></img>
       </ul>
     </section>
   )

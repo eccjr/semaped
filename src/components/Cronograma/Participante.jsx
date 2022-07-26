@@ -9,7 +9,9 @@ export function Participante({nome, image_url,titulo,horario_loc,descricao="",in
         <>
             <div className="participante">
                 <div className="part-half-1">
+                    {image_url &&
                     <img src={image_url} className="part-logo" alt="Logo do participante"/>
+                    }
                     <h1>{nome}</h1>              
                 </div>
                 <div className="part-half-2">

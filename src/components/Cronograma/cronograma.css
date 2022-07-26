@@ -96,7 +96,8 @@
 
 .part-half-1 img {
     width: 200px;
-    height: auto;
+    height: 200px;
+    object-fit: cover;
 }
 
 .part-half-1 h1 {
