@@ -10,7 +10,7 @@ export function MainSection(){
 
             <div className="semaped-text">
                 <h2>Dias 19 a 23 de Setembro</h2>
-                <p>Sejam bem-vindos a XIX semana da Pedagogia UNESP-IBILCE, nesta edição retrataremos sobre o olhar crítico, reflexivo e representativo a etapa da educação infantil e anos iniciais do ensino fundamental ao longo de três conferências, oito minicursos, além da primeira mostra pedagógica, junto de diversas atividades culturais.
+                <p>Sejam bem-vindos a XIX semana da Pedagogia UNESP-IBILCE, nesta edição retrataremos sobre o olhar crítico, reflexivo e representativo a etapa da educação infantil e anos iniciais do ensino fundamental ao longo de duas conferências, oito minicursos, além da primeira mostra pedagógica, junto de diversas atividades culturais.
                 <br/>Vai perder essa? Eu aposto que não! Então clique aqui e faça parte da nossa família unespiana.</p>
                 <a href="http://www.geci.ibilce.unesp.br/site/semaped2022">Inscreva-se</a>
             </div>
