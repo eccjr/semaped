@@ -45,7 +45,7 @@ export function Header() {
             <div className="line2"></div>
             <div className="line3"></div>
           </div>
-          <a className="header-botao" href="http://www.geci.ibilce.unesp.br/site/semaped2022">
+          <a className="header-botao" href="https://www.geci.ibilce.unesp.br/index.jsp">
             Inscreva-se
           </a>
         </div>
