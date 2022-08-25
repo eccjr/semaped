@@ -113,15 +113,7 @@
         }
     ],
     "dia21": [
-        { 
-            "nome": "", 
-            "image_url": "", 
-            "titulo": "Mostra pedagógica", 
-            "horario_loc": "19h30min - 20h30min", 
-            "descricao": "Apresentação de trabalhos e práticas pedagógicas de professores de escolas públicas e privadas.",
-            "instagram": "", 
-            "linkedin": "" 
-        },
+      
         { 
             "nome": "", 
             "image_url": "voz.jpeg", 
@@ -134,7 +126,7 @@
         { 
             "nome": "", 
             "image_url": "conversa.jpeg", 
-            "titulo": "Roda de bate-papo e troca de experiências entre professores da rede pública, sobre o ensino em tempos de pandemia e a volta as salas de aula.", 
+            "titulo": "Roda de bate-papo entre professores, coordenadores e gestores, sobre variadas abordagens, concepções e perspectivas da BNCC da Educação infantil e anos iniciais do ensino fundamental.", 
             "horario_loc": "20h30min - 22h30min", 
             "descricao": "", 
             "instagram": "", 
