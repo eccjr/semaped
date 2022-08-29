@@ -3,6 +3,7 @@
     {"foto": "image28.png", "nome": "Lucas", "cargo": "Presidente"},
     {"foto": "image26.png", "nome": "Camila", "cargo": "Vice-presidente"},
     {"foto": "image19.png", "nome": "Mariane", "cargo": "Vice-presidente"},
+    {"foto": "image29.jpeg", "nome": "", "cargo": "Coordenadora"},
     {"foto": "image5.png", "nome": "Tatiely", "cargo": "Subcomissão de divulgação"},
     {"foto": "image6.png", "nome": "Larissa Mazi", "cargo": "Subcomissão de patrocínio"},
     {"foto": "image7.png", "nome": "Giulia", "cargo": "Subcomissão de divulgação"},
@@ -24,6 +25,7 @@
     {"foto": "image24.png", "nome": "Danielly", "cargo": "Subcomissão de alimentação"},
     {"foto": "image25.png", "nome": "Larissa", "cargo": "Subcomissão de alimentação"},
     {"foto": "image27.png", "nome": "Gisele Machado", "cargo": "Subcomissão científica"}
+    
 
   ]
 }
