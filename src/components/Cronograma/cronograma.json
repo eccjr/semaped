@@ -2,8 +2,8 @@
     "dia19": [
         { 
             "nome": "", 
-            "image_url": "cultural.jpeg", 
-            "titulo": "Atividade cultural: Dança flamenca", 
+            "image_url": "danca_crianca.jpeg", 
+            "titulo": "Apresentação Cultural: Projeto SocioCultural Metal Madeira (dança e percussão flamenca)", 
             "horario_loc": "19h30min - 20h30min", 
             "descricao": "",
             "instagram": "", 
@@ -126,9 +126,27 @@
         { 
             "nome": "", 
             "image_url": "conversa.jpeg", 
-            "titulo": "Roda de bate-papo entre professores, coordenadores e gestores, sobre variadas abordagens, concepções e perspectivas da BNCC da Educação infantil e anos iniciais do ensino fundamental.", 
+            "titulo": "Mesa-redonda: Rede Municipal de Ensino de São José do Rio Preto e os desafios pós-pandemia", 
             "horario_loc": "20h30min - 22h30min", 
             "descricao": "", 
+            "instagram": "", 
+            "linkedin": "" 
+        },
+        { 
+            "nome": "Prof. Ms. Marcos Danillo Lopes de Sena", 
+            "image_url": "image31.jpeg", 
+            "titulo": "Mesa-redonda: Rede Municipal de Ensino de São José do Rio Preto e os desafios pós-pandemia", 
+            "horario_loc": "20h30min - 22h30min", 
+            "descricao": "Graduado em Pedagogia pela Universidade Estadual Paulista Júlio de Mesquita Filho - UNESP/SJRP. Especialista (latu sensu) em Educação Especial e Inclusiva pela FAHE. Especialista (latu sensu) Metodologia do Ensino de Artes. Mestre em Educação pela Universidade Federal de São Carlos (UFSCAR). Atualmente é professor da Rede Municipal de Educação de São José do Rio Preto-SP. É membro da Rede Universitas/Br que está vinculada ao GT 11 da ANPED. Tem se dedicado a estudos na área de Política e Gestão Educacional Brasileira, Avaliação da Educação, Autonomia Universitária e Políticas e Práticas de Inclusão.", 
+            "instagram": "", 
+            "linkedin": "" 
+        },
+        { 
+            "nome": "Profa. Ms. Daniele da Cunha Pereira", 
+            "image_url": "image32.jpeg", 
+            "titulo": "Mesa-redonda: Rede Municipal de Ensino de São José do Rio Preto e os desafios pós-pandemia", 
+            "horario_loc": "20h30min - 22h30min", 
+            "descricao": "Graduada em pedagogia pela Universidade Estadual Paulista- UNESP Campus de São José do Rio Preto (SP). Mestre em Ensino e Processos Formativos pelo Programa Multidisciplinar Interunidades de Pós Graduação Strictu Sensu (UNESP São José do Rio Preto/Ilha Solteira e Jaboticabal), na linha de pesquisa Tecnologias, Diversidades e Culturas. Pós-graduada - lato sensu - em 'Educação Inclusiva' pela Universidade Cidade de S. Paulo (UNICID) e 'Ética, Valor e Saúde na Educação' pela USP. Atualmente coordenadora pedagógica na Escola Municipal Professor Rubens Cintra Damião.", 
             "instagram": "", 
             "linkedin": "" 
         }
