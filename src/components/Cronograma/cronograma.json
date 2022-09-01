@@ -134,7 +134,7 @@
         },
         { 
             "nome": "Prof. Ms. Marcos Danillo Lopes de Sena", 
-            "image_url": "image31.jpeg", 
+            "image_url": "image32.jpeg", 
             "titulo": "Mesa-redonda: Rede Municipal de Ensino de São José do Rio Preto e os desafios pós-pandemia", 
             "horario_loc": "20h30min - 22h30min", 
             "descricao": "Graduado em Pedagogia pela Universidade Estadual Paulista Júlio de Mesquita Filho - UNESP/SJRP. Especialista (latu sensu) em Educação Especial e Inclusiva pela FAHE. Especialista (latu sensu) Metodologia do Ensino de Artes. Mestre em Educação pela Universidade Federal de São Carlos (UFSCAR). Atualmente é professor da Rede Municipal de Educação de São José do Rio Preto-SP. É membro da Rede Universitas/Br que está vinculada ao GT 11 da ANPED. Tem se dedicado a estudos na área de Política e Gestão Educacional Brasileira, Avaliação da Educação, Autonomia Universitária e Políticas e Práticas de Inclusão.", 
@@ -142,8 +142,17 @@
             "linkedin": "" 
         },
         { 
+            "nome": "Prof. Evanileide Patrícia Lima Figueira", 
+            "image_url": "image33.jpeg", 
+            "titulo": "Mesa-redonda: Rede Municipal de Ensino de São José do Rio Preto e os desafios pós-pandemia", 
+            "horario_loc": "20h30min - 22h30min", 
+            "descricao": "Graduada em Pedagogia pela Faculdades Integradas Urubupunga (2011) e em Matemática pela FUNEPE (2007). Possui Especialização em Psicopedagogia - FALC (2010), Especialização em Educação Infantil – UNESP (2016) e Especialização em Coordenação Pedagógica – UFSCAR (2017). Mestre em Educação pelo Programa de Pós-Graduação em Educação (PPGE) na Universidade Estadual Paulista Júlio de Mesquita Filho (FCT/UNESP), campus Presidente Prudente, com pesquisa concluída vinculada a Linha de Pesquisa 'Processos Formativos, Ensino e Aprendizagem'. Membro do Grupo de Pesquisa e Avaliação de Políticas Educacionais (GAPE) da UNESP/ Marilia. Atualmente exerce o cargo de Diretora de escola na Prefeitura Municipal de São José do Rio Preto. Tem experiência na área de Educação, dedicando-se a estudos sobre disciplina, (in)disciplina, convivência na escola, construção da autonomia moral, com foco na Educação Infantil.", 
+            "instagram": "", 
+            "linkedin": "" 
+        },
+        { 
             "nome": "Profa. Ms. Daniele da Cunha Pereira", 
-            "image_url": "image32.jpeg", 
+            "image_url": "image31.jpeg", 
             "titulo": "Mesa-redonda: Rede Municipal de Ensino de São José do Rio Preto e os desafios pós-pandemia", 
             "horario_loc": "20h30min - 22h30min", 
             "descricao": "Graduada em pedagogia pela Universidade Estadual Paulista- UNESP Campus de São José do Rio Preto (SP). Mestre em Ensino e Processos Formativos pelo Programa Multidisciplinar Interunidades de Pós Graduação Strictu Sensu (UNESP São José do Rio Preto/Ilha Solteira e Jaboticabal), na linha de pesquisa Tecnologias, Diversidades e Culturas. Pós-graduada - lato sensu - em 'Educação Inclusiva' pela Universidade Cidade de S. Paulo (UNICID) e 'Ética, Valor e Saúde na Educação' pela USP. Atualmente coordenadora pedagógica na Escola Municipal Professor Rubens Cintra Damião.", 
